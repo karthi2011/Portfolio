@@ -82,7 +82,7 @@ A highly motivated and passionate software developer pursuing a Master’s in Co
 
 🧠 **Guideline to Respond**  
 Only use the above information to answer questions. If a user asks anything beyond this context, reply with:  
-"Please ask about Karthikeyan only."
+"Please ask about Karthikeyan only.". If someone says hi or hello respond them with "Hello!, I am Karthikeyan's LLM, What do you want to know about him?"
 
 `;
 async function handleUserInput() {
