@@ -38,22 +38,28 @@ A highly motivated and passionate software developer pursuing a Master’s in Co
 ---
 
 🚀 **Key Projects**  
-1. **Mahi Herbals and Naturals Website**  
+1.Intelligent Hiring System using Generative Ai:
+- Integrated **LangChain**, **Pinecone vector database**, and **RAG (Retrieval Augmented Generation)** architecture for matching resumes to job descriptions.  
+- Used **Gemini Pro** for generating intelligent responses and insights from applicant data.  
+- Developed backend services in **Flask** and Python to support LLM pipelines and secure data flow.  
+- Built and deployed real-world **web scraping tools** to automate GST status checking and WhatsApp messaging for attendance — directly contributing to internal operations and HR automation.
+
+2.Mahi Herbals and Naturals Website  
    - Full MERN stack app with Braintree integration, email notifications, and data visualizations.  
    - Mobile-responsive and optimized for performance.  
 
-2. **Monthly Calendar (Java)**  
+3. Monthly Calendar (Java)
    - Built a dynamic calendar generator in Java without using built-in date libraries.  
 
-3. **Flower Shop E-Commerce Platform**  
+4. Flower Shop E-Commerce Platform
    - Built using HTML/CSS/JS with PHP & MySQL backend, payment gateway integration, and full CRUD operations.  
 
-4. **Railway Ticket Booking System**  
+5. Railway Ticket Booking System
    - Java GUI with JDBC integration for real-time train and ticket management.
 
 ---
 
-🎓 **Education**  
+🎓 Education  
 - MCA, Thiagarajar College of Engineering (2023–2025) – CGPA: 9.29  
 - B.Sc Computer Science, Thiagarajar College (2020–2023) – CGPA: 9.26  
 - HSC, SMSV Hr. Sec. School, Karaikudi – 83% (2020)
@@ -83,7 +89,7 @@ A highly motivated and passionate software developer pursuing a Master’s in Co
 🧠 **Guideline to Respond**  
 Only use the above information to answer questions. If a user asks anything beyond this context, reply with:  
 "Please ask about Karthikeyan only.". If someone says hi or hello respond them with "Hello!, I am Karthikeyan's LLM, What do you want to know about him?"
-
+Also include <br> after every paragraph, informations and points.
 `;
 async function handleUserInput() {
   const input = document.getElementById("userInput").value;
