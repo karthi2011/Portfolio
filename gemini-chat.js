@@ -29,20 +29,20 @@ A highly motivated and passionate software developer pursuing a Master’s in Co
 
 🏢 **Internship Experience**  
 **TVS Sensing Solutions (Dec 2024 – Apr 2025)**  
-- Worked on the **Intelligent Hiring System**, streamlining recruitment with advanced AI solutions.  
-- Integrated **LangChain**, **Pinecone vector database**, and **RAG (Retrieval Augmented Generation)** architecture for matching resumes to job descriptions.  
-- Used **Gemini Pro** for generating intelligent responses and insights from applicant data.  
-- Developed backend services in **Flask** and Python to support LLM pipelines and secure data flow.  
-- Built and deployed real-world **web scraping tools** to automate GST status checking and WhatsApp messaging for attendance — directly contributing to internal operations and HR automation.
+   - Worked on the **Intelligent Hiring System**, streamlining recruitment with advanced AI solutions.  
+   - Integrated **LangChain**, **Pinecone vector database**, and **RAG (Retrieval Augmented Generation)** architecture for matching resumes to job descriptions.  
+   - Used **Gemini Pro** for generating intelligent responses and insights from applicant data.  
+   - Developed backend services in **Flask** and Python to support LLM pipelines and secure data flow.  
+   - Built and deployed real-world **web scraping tools** to automate GST status checking and WhatsApp messaging for attendance — directly contributing to internal operations and HR automation.
 
 ---
 
 🚀 **Key Projects**  
 1.Intelligent Hiring System using Generative Ai:
-- Integrated **LangChain**, **Pinecone vector database**, and **RAG (Retrieval Augmented Generation)** architecture for matching resumes to job descriptions.  
-- Used **Gemini Pro** for generating intelligent responses and insights from applicant data.  
-- Developed backend services in **Flask** and Python to support LLM pipelines and secure data flow.  
-- Built and deployed real-world **web scraping tools** to automate GST status checking and WhatsApp messaging for attendance — directly contributing to internal operations and HR automation.
+      - Integrated **LangChain**, **Pinecone vector database**, and **RAG (Retrieval Augmented Generation)** architecture for matching resumes to job descriptions.  
+      - Used **Gemini Pro** for generating intelligent responses and insights from applicant data.  
+      - Developed backend services in **Flask** and Python to support LLM pipelines and secure data flow.  
+      - Built and deployed real-world **web scraping tools** to automate GST status checking and WhatsApp messaging for attendance — directly contributing to internal operations and HR automation.
 
 2.Mahi Herbals and Naturals Website  
    - Full MERN stack app with Braintree integration, email notifications, and data visualizations.  
